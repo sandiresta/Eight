@@ -4,9 +4,9 @@ st.title("About Our Group")
 st.write("Meet the amazing members of our group!")
 
 group_members = [
-    {"Name": "Ruddi Sutomi", "Role": "FMU Leader", "Email": "ruddi.sutomi@michelin.com", "Image": "https://github.com/sandiresta/Eight/blob/main/assets/WhatsApp%20Image%202024-12-13%20at%2021.05.38_b1b3ada7.png"},
-    {"Name": "Sandi Resta", "Role": "DM ZP Leader", "Email": "sandi.resta@michelin.com", "Image": "https://github.com/sandiresta/Eight/blob/main/assets/20220822_211922.png"},
-    {"Name": "Raden Asep Ahmad Fadillah", "Role": "2W BU Leader", "Email": "raden.fadillah@michelin.com", "Image": "https://github.com/sandiresta/Eight/blob/main/assets/WhatsApp%20Image%202024-12-13%20at%2021.06.02_107ccee3.png"},
+    {"Name": "Ruddi Sutomi", "Role": "FMU Leader", "Email": "ruddi.sutomi@michelin.com", "Image": "assets/WhatsApp%20Image%202024-12-13%20at%2021.05.38_b1b3ada7.png"},
+    {"Name": "Sandi Resta", "Role": "DM ZP Leader", "Email": "sandi.resta@michelin.com", "Image": "assets/20220822_211922.png"},
+    {"Name": "Raden Asep Ahmad Fadillah", "Role": "2W BU Leader", "Email": "raden.fadillah@michelin.com", "Image": "assets/WhatsApp%20Image%202024-12-13%20at%2021.06.02_107ccee3.png"},
 ]
 
 for member in group_members:
