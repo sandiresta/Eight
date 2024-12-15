@@ -8,7 +8,7 @@ st.sidebar.write("Use the sidebar to navigate through the app.")
 
 st.write("# Welcome to the Image Processing App")
 try:
-img = Image.open( r"https://github.com/sandiresta/Eight/blob/main/assets/logo%20pu.png")
+img = Image.open(r"https://github.com/sandiresta/Eight/blob/main/assets/logo%20pu.png")
 img.verify()
 except exception as e:
 st.error(f"error:{e}")
