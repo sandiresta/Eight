@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image
 
 st.set_page_config(page_title="Image Processing App", page_icon= r"https://github.com/sandiresta/Eight/blob/main/assets/logo%20pu.png")
 
